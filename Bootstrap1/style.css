@@ -1,0 +1,98 @@
+@font-face { font-family: ktm; src: url(Spaceport1.ttf); }
+@font-face { font-family: bom; src: url(BOMBARD_.ttf); }
+header a{
+    color:white !important;
+}
+
+body{
+    background-color: white;
+}
+.ceva{
+    color:red
+}
+
+.icon{
+    object-fit:cover!important;
+}
+.my-nav{
+    z-index:999;
+
+}
+.my-carousel{
+    margin-top:-240px;
+}
+.carousel .carousel-item {
+    height: 1000px;
+  }
+  .carousel-item img{
+    position: center;
+    object-fit:cover;
+    top: 0;
+    left: 0;
+    min-height: 100%;
+}
+.title{
+    color:rgb(255, 106, 7);
+    text-align:center;
+    font-family:ktm;
+}
+.my-card-img{
+    object-fit:cover;
+    width:400px!important;
+    height:400px!important;;
+}
+.my-card{
+    width:400px!important;
+}
+.my-cardb{
+    width:1250px!important;
+}
+.my-card-imgb{
+    object-fit:cover;
+    width:1250px!important;
+    height:150px!important;;
+}
+footer{
+    padding-bottom:20px;
+    height:10vh;
+    background-color: rgb(255, 106, 7);
+    z-index:999;
+}
+.centercon{
+    text-align:center;
+}
+.center{
+    text-align: center!important;
+}
+.my-imagine{
+    margin-top:-240px;
+    width:100%!important;
+    height:70rem!important;
+}
+.orange{
+    background-color: rgb(255, 106, 7);
+}
+.alb{
+    color: white;
+    font-family: bom;
+    font-size: 60px;
+}
+.albp{
+    color: white;
+    font-family: bom;
+    font-size: 40px;
+}
+.alba{
+    color: white;
+    font-family: bom;
+}
+.backbikes{
+    background-image:url('Error404.gif');
+    background-repeat: repeat;
+    background-size: cover;
+    padding-top:-240px;
+}
+.normal{
+    text-decoration:none;
+    color: white;
+}

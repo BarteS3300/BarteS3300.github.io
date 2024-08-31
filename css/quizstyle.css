@@ -1,0 +1,40 @@
+:root{
+    --back-color : #fdf4e8;
+    /*--back-color : #191919;*/
+    /*--back-color : #000000;*/
+    /*--second-color: #5309A2;*/
+    --second-color: #000000;
+}
+
+
+body{
+    background-color: var(--back-color);
+    color: var(--second-color);
+    height: 100vh;
+    font-family: "Source Code Pro" , monospace;
+}
+
+main{
+    height: 80vh;
+}
+
+.my-nav-container{
+    padding: 0 5%;
+}
+
+.username-nav{
+    color: var(--second-color) !important;
+    font-size: 1.1em;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+}
+
+.text-center{
+    text-align: center;
+}
